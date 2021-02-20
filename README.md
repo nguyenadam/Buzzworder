@@ -6,7 +6,7 @@ Hello there dynamically enhanced cutting-edge businessperson! This script will h
 
 Add it to your website using the following script tag:
 ```
-<script src="https://cdn.jsdelivr.net/gh/nguyenadam/Buzzworder@1.0/dist/main.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/nguyenadam/Buzzworder@1.0.1/dist/main.js"></script>
 ```
 
 To insert a buzzword, simply use a `<span></span>` element with the class `buzz`. Buzzworder will automagically insert a buzzword there.
