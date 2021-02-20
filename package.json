@@ -16,9 +16,9 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack && gzipper compress ./dist"
+    "build": "webpack"
   },
   "keywords": [],
-  "author": "",
+  "author": "Jonathan Chacko and Adam Nguyen",
   "license": "ISC"
 }
