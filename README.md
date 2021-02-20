@@ -1,12 +1,17 @@
 # Buzzworder 
 
-Hello there dynamically enhanced cutting-edge businessperson!
+Hello there dynamically enhanced cutting-edge businessperson! This script will help fill in buzzwords on your website!
 
-This script will help fill in buzzwords on your website!
+## Quickstart
+
+Add it to your website using the following script tag:
+```
+<script src="https://cdn.jsdelivr.net/gh/nguyenadam/Buzzworder@1.0/dist/main.js"></script>
+```
 
 To insert a buzzword, simply use a `<span></span>` element with the class `buzz`. Buzzworder will automagically insert a buzzword there.
 
-## Example
+### Example
 ```<span class="buzz" data-pos="noun" data-case="title"></span>``` could turn into "mindshare" or "innovation"
 
 ## Possible Attributes
